@@ -1,0 +1,24 @@
+{
+    "name": "arje/sms-office",
+    "description": "SMS office laravel package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arje\\SmsOffice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Temo Arjevanidze"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Arje\\SmsOffice\\Providers\\SmsOfficeServiceProvider"
+            ]
+        }
+    }
+}
