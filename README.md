@@ -6,6 +6,5 @@ Send messages with the help of sms office api.
 
 Run Command:
 ```
-php artisan vendor:publish --provider="Arje\SmsOffice\Providers\SmsOfficeServicePr
-ovider" --tag="config"
+php artisan vendor:publish --provider="Arje\SmsOffice\Providers\SmsOfficeServiceProvider" --tag="config"
 ```
