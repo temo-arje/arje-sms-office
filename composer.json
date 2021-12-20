@@ -10,7 +10,8 @@
     },
     "authors": [
         {
-            "name": "Temo Arjevanidze"
+            "name": "Temo Arjevanidze",
+            "email": "arjevanidzetemo@gmail.com"
         }
     ],
     "require": {
