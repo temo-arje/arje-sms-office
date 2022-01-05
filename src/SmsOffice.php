@@ -25,7 +25,6 @@ class SmsOffice
     {
         $this->apiKey = config('arje_sms_office.key');
         $this->sender = config('arje_sms_office.sender');
-
         $this->client = new Client();
     }
 
